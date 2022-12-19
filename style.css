@@ -55,3 +55,31 @@ button:hover {
     --bs-btn-hover-border-color: #181D31 !important;
     --bs-btn-hover-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
+
+
+.card-img-top{
+    height: 150px;
+    max-width: 110px;
+    font-size: small;
+    align-self: center;
+}
+
+.bookslider{
+    padding-top: 50px;
+    padding-bottom: 125px;
+}
+
+.bookcomments{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bookitem{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+
+}
+.bigcard{
+    max-width: 100%;
+}
