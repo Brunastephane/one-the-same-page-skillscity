@@ -83,3 +83,19 @@ button:hover {
 .bigcard{
     max-width: 100%;
 }
+
+.navigationbuttons{
+    padding-top: 50px;
+    padding-bottom: 125px;
+}
+
+.carousel-item{
+    height: 50% !important;
+}
+
+.carousel-caption{
+    position: absolute !important;
+    height: 600px !important;
+    width: 220px;
+    color: #E6DDC4!important;
+}
